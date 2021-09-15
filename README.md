@@ -8,3 +8,5 @@
 [819. Most Common Word](https://velog.io/@yelim421/819.-Most-Common-Word-Python3)<br>
 [49. Group Anagrams](https://velog.io/@yelim421/49.-Group-Anagrams-Python3)<br>
 [5. Longest Palindromic Substring](https://velog.io/@yelim421/5.-Longest-Palindromic-Substring-Python3)<br>
+[1. Two Sum](https://velog.io/@yelim421/1.-Two-Sum-Python3)<br>
+[42. Trapping Rain Water](https://velog.io/@yelim421/42.-Trapping-Rain-Water-Python3)<br>
