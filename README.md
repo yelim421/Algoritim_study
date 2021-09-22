@@ -14,3 +14,5 @@
 [121. Best Time to Buy and Sell Stock](https://velog.io/@yelim421/121.-Best-Time-to-Buy-and-Sell-Stock-Python3)<br>
 [234. Palindrome Linked List](https://velog.io/@yelim421/234.-Palindrome-Linked-List-Python3)<br>
 [21. Merge Two Sorted Lists](https://velog.io/@yelim421/21.-Merge-Two-Sorted-Lists-Python3)<br>
+[2. Add Two Numbers](https://velog.io/@yelim421/2.-Add-Two-Numbers-Python3)<br>
+[206. Reverse Linked List](https://velog.io/@yelim421/206.-Reverse-Linked-List-Python3)<br>
