@@ -1,6 +1,8 @@
 # Algoritim_study
 
 <!--format []()<br> -->
+# [현황 시트](https://docs.google.com/spreadsheets/d/11rxpHZ_lIbVifBDfm0P_4iQGseXVKRku_QqCmVxgAuU/edit#gid=0)
+
 
 [125. Vaild Palindrome](https://velog.io/@yelim421/Valid-PalindromePython3)<br>
 [344. Reverse String](https://velog.io/@yelim421/344.-Reverse-String-Python3)<br>
