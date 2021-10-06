@@ -20,7 +20,7 @@
 [206. Reverse Linked List](https://velog.io/@yelim421/206.-Reverse-Linked-List-Python3)<br>
 [24. Swap Nodes in Pairs](https://velog.io/@yelim421/24.-Swap-Nodes-in-Pairs-Python3)<br>
 [328. Odd Even Linked List](https://velog.io/@yelim421/328.-Odd-Even-Linked-List-Python3)<br>
-[]()<br>
+[92. Reverse Linked List II](https://velog.io/@yelim421/92.-Reverse-Linked-List-II-Python3)<br>
 []()<br>
 []()<br>
 []()<br>
