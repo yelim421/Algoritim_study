@@ -19,7 +19,7 @@
 [2. Add Two Numbers](https://velog.io/@yelim421/2.-Add-Two-Numbers-Python3)<br>
 [206. Reverse Linked List](https://velog.io/@yelim421/206.-Reverse-Linked-List-Python3)<br>
 [24. Swap Nodes in Pairs](https://velog.io/@yelim421/24.-Swap-Nodes-in-Pairs-Python3)<br>
-[]()<br>
+[328. Odd Even Linked List](https://velog.io/@yelim421/328.-Odd-Even-Linked-List-Python3)<br>
 []()<br>
 []()<br>
 []()<br>
