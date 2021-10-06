@@ -21,16 +21,16 @@
 [24. Swap Nodes in Pairs](https://velog.io/@yelim421/24.-Swap-Nodes-in-Pairs-Python3)<br>
 [328. Odd Even Linked List](https://velog.io/@yelim421/328.-Odd-Even-Linked-List-Python3)<br>
 [92. Reverse Linked List II](https://velog.io/@yelim421/92.-Reverse-Linked-List-II-Python3)<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[20. Valid Parentheses](https://velog.io/@yelim421/20.-Valid-Parentheses-Python3)<br>
+[316. Remove Duplicate Letters](https://velog.io/@yelim421/316.-Remove-Duplicate-Letters-Python3)<br>
+[739. Daily Temperatures](https://velog.io/@yelim421/739.-Daily-Temperatures-Python3)<br>
+[225. Implement Stack using Queues](https://velog.io/@yelim421/225.-Implement-Stack-using-Queues-Python3)<br>
+[232. Implement Queue using Stacks](https://velog.io/@yelim421/232.-Implement-Queue-using-Stacks-Python3)<br>
+[622. Design Circular Queue](https://velog.io/@yelim421/622.-Design-Circular-Queue-Python3)<br>
+[641. Design Circular Deque](https://velog.io/@yelim421/641.-Design-Circular-Deque-Python3)<br>
+[23. Merge k Sorted Lists](https://velog.io/@yelim421/23.-Merge-k-Sorted-Lists-Python3)<br>
+[706. Design HashMap](https://velog.io/@yelim421/706.-Design-HashMap-Python3)<br>
+[771. Jewels and Stones](https://velog.io/@yelim421/771.-Jewels-and-Stones-Python3)<br>
+[3. Longest Substring Without Repeating Characters](https://velog.io/@yelim421/3.-Longest-Substring-Without-Repeating-Characters-Python3)<br>
 []()<br>
 []()<br>
