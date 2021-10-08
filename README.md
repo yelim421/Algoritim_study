@@ -2,7 +2,7 @@
 ---
 since 2021.09.12~
 
-every code is written by Python3.
+every code is written by Python3.<br>
 Problems from LeetCode
 
 <!--format []()<br> -->
