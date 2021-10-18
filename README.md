@@ -2,7 +2,7 @@
 ---
 since 2021.09.12~
 
-every code is written by Python3.<br>
+Every code is written by Python3.<br>
 Problems from LeetCode
 
 <!--format []()<br> -->
@@ -37,5 +37,6 @@ Problems from LeetCode
 [706. Design HashMap](https://velog.io/@yelim421/706.-Design-HashMap-Python3)<br>
 [771. Jewels and Stones](https://velog.io/@yelim421/771.-Jewels-and-Stones-Python3)<br>
 [3. Longest Substring Without Repeating Characters](https://velog.io/@yelim421/3.-Longest-Substring-Without-Repeating-Characters-Python3)<br>
-[]()<br>
-[]()<br>
+
+...
+Check this folder for Code from day 19 ⬆
