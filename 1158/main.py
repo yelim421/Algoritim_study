@@ -2,7 +2,6 @@ import math
 import time 
 
 
-
 class Empty(Exception):
     pass
 
