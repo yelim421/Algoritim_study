@@ -3,7 +3,7 @@
 since 2021.09.12~
 
 Every code is written by Python3.<br>
-Problems from LeetCode
+Problems from [LeetCode](https://leetcode.com/) and [BaekJoon](https://www.acmicpc.net/)
 
 <!--format []()<br> -->
 # [현황 시트](https://docs.google.com/spreadsheets/d/11rxpHZ_lIbVifBDfm0P_4iQGseXVKRku_QqCmVxgAuU/edit#gid=0)
