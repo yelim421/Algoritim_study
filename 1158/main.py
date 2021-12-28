@@ -6,7 +6,7 @@ class Empty(Exception):
     pass
 
 class ArrayQueue:
-    DEFAULT_CAPACITY = 10
+    DEFAULT_CAPACITY = 5000
 
     def __init__(self):
         self._data = [None] * ArrayQueue.DEFAULT_CAPACITY
