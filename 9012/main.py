@@ -15,4 +15,3 @@ for T in range(int(input())):
         if len(str) == 0 :
             print("YES")
             break
-    #print("NO")
