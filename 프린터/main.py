@@ -7,8 +7,6 @@ def solution(priorities, location):
         if max(priorities) == priorities[0]:
             order.append(priorities[0])
             priorities.pop(0)
-        #elif len(priorities) == 0 :
-        #    break
         else :
             priorities.append(priorities.pop(0))
     print(order)
