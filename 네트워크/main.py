@@ -10,8 +10,8 @@ def solution(n, computers):
     
     print(max(dic))
     
-    for i in range(max(dic)):
-        for j in range(max(dic)):
+    for i in range(max(dic)+1):
+        for j in range(max(dic)+1):
             if dic[i][j] == 1:
                 dic[i][j] = j
             elif dic[i][j] == 0:
